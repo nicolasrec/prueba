@@ -1,0 +1,8 @@
+git config --global user.name "nombre_usuario"
+git config --global user.email "correo"
+git init (iniciar git)
+git add nombre_archivo - git add .
+git commit (i -> Insertar comentario, ESC, :wq grabar y salir)
+OTRA OPCIÓN DE COMMIT
+git commit -m "Descripción de cambios"
+git log (Historial de commits) --oneline (abreviado) --graph(gráfico)
